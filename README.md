@@ -17,7 +17,7 @@ This project allows users to register, login, and manage their daily tasks effic
 ---
 
 ### Live Demo
-First open this link [Start Server](https://todo-app-mern-arch.onrender.com) and wait. Close it and came back to this repository and Open this [Website](https://to-do-mern-app-delta.vercel.app/).
+First open this link [Start Server](https://todo-app-mern-arch.onrender.com) and wait. Close it and came back to this repository and open [my todo Website](https://to-do-mern-app-delta.vercel.app/).
 
 ## 📸 Screenshots
 
@@ -61,3 +61,6 @@ First open this link [Start Server](https://todo-app-mern-arch.onrender.com) and
 - MongoDB
 - Mongoose
 - JWT Authentication
+
+⭐ Support
+🙌 If you found this project useful or helpful for learning Python, OpenCV, or OCR, consider giving the repository a ⭐.
