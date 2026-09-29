@@ -16,9 +16,11 @@ This project allows users to register, login, and manage their daily tasks effic
 
 ---
 
+### Live Demo
+First open the Start Server link and wait. Close it and came back to this repository and click Open Website.
 [Start Server](https://todo-app-mern-arch.onrender.com)
 
----[Start Server](https://todo-app-mern-arch.onrender.com)
+[Open Website](https://to-do-mern-app-delta.vercel.app/)
 
 ## 📸 Screenshots
 
